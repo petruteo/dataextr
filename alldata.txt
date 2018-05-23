@@ -1,0 +1,12 @@
+{"link":{"0":{},"1":{}},"pattern":null,"emails":null}
+{"link":[],"pattern":null,"emails":null}
+{"link":{"0":{},"1":{}},"pattern":null,"emails":null}
+{"link":{"0":{},"1":{}},"pattern":["{first}.{last}@000.nl"],"emails":null}
+{"link":{"0":{},"1":{}},"pattern":["{first}.{last}@0-to-9.nl"],"emails":null}
+{"link":{"0":{},"1":{}},"pattern":["{first}-{last}@0catch.com"],"emails":null}
+{"link":{"0":{},"1":{}},"pattern":null,"emails":null}
+{"link":{"0":{},"1":{}},"pattern":null,"emails":null}
+{"link":{"0":{},"1":{}},"pattern":["{first}.{last}@0rz.tw"],"emails":null}
+{"link":{"0":{},"1":{}},"pattern":null,"emails":null}
+{"link":{"0":{},"1":{}},"pattern":null,"emails":null}
+{"link":{"0":{},"1":{}},"pattern":null,"emails":null}
